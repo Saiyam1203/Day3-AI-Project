@@ -1,0 +1,1 @@
+A False Negative is more dangerous because it predicts that a person does not have a disease when they actually do. This can delay treatment and lead to serious consequences. False Positives may cause stress but are less harmful compared to missing a real case.
